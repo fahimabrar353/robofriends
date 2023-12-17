@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.0e1eb87d.css",
+    "main.js": "/robofriends/static/js/main.0b9d836a.js",
+    "static/media/LED Dot-Matrix.woff": "/robofriends/static/media/LED Dot-Matrix.3fd54cbb63b310faad98.woff",
+    "index.html": "/robofriends/index.html",
+    "main.0e1eb87d.css.map": "/robofriends/static/css/main.0e1eb87d.css.map",
+    "main.0b9d836a.js.map": "/robofriends/static/js/main.0b9d836a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e1eb87d.css",
+    "static/js/main.0b9d836a.js"
+  ]
+}
